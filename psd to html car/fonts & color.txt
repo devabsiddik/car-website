@@ -1,0 +1,27 @@
+common color:
+------------------------
+1==#ffc61a
+---------------------------
+
+2==#040304
+
+font
+-------------------------
+  font-family: 'Lato', sans-serif;
+  font-family: 'Lato', sans-serif;
+
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lato:wght@400;700;900&display=swap" rel="stylesheet">
+
+
+
+
+
+
+
+
+
+
+
+
+
+

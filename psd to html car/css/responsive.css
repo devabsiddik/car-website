@@ -1,0 +1,23 @@
+@media  only screen and (min-width: 300px) and (max-width: 768px) {
+
+    .slicknav_menu {
+        display: block;
+    }
+    .slicknav_menu {
+        background: #ffc61a;
+    }
+    #header_area{height: auto;}
+    #header_area ul#nav{display: none;}
+    #header_area .logo_img{ text-align: center;margin: 0 auto; }
+    #header_area .info_text{padding: 30px 0;}
+    #header_area .info_text h1{font-size: 42px;}
+    #header_area .info_text p{letter-spacing: 3px;}
+    #header_area .car_sec img {width: 95%;}
+    #cab_section {padding: 25px 0 31px;}
+    #cab_section .cab_left p{font-size: 15px;  margin-bottom: 30px;}
+    #cab_section .cab_left a.readmore {text-align: center;display: block;width: 40%;margin: auto;padding: 5px 10px;}
+
+
+
+
+}
